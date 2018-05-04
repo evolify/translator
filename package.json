@@ -1,5 +1,5 @@
 {
-  "name": "translator",
+  "name": "command-translator",
   "version": "1.0.0",
   "description": "A translator in command line.",
   "main": "index.js",
