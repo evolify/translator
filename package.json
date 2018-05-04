@@ -1,0 +1,22 @@
+{
+  "name": "translator",
+  "version": "1.0.0",
+  "description": "A translator in command line.",
+  "main": "index.js",
+  "bin": {
+    "tl": "./bin.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "translator",
+    "command"
+  ],
+  "author": "孤狼",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "commander": "^2.15.1"
+  }
+}
